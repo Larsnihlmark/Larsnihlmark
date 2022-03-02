@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning animation, react.js and node.js
  
 
-- 📫 How to reach me ...
+
 
 <!---
 Larsnihlmark/Larsnihlmark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
