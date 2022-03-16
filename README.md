@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Larsnihlmark
 
-- 👀 I’m interested in develop, mostly animation design. Always down for broder my view and learn more. 
+- 👀 I’m interested in develop, mostly animation design. Always down for broader my view and learn more. 
  
 - 🌱 I’m currently learning animation, react.js and node.js
  
